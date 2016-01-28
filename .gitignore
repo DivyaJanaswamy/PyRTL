@@ -1,5 +1,8 @@
 *.py[cod]
 
+# other cache files
+*.py~
+
 # coverage
 htmlconv/
 .coverage/
